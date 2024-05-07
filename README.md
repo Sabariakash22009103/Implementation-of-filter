@@ -1,4 +1,4 @@
-# Implementation-of-filter
+# Exp-05 Implementation of filter
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
@@ -133,7 +133,6 @@ plt.axis("off")
 plt.show()
 
 ```
-
 ## OUTPUT:
 ### 1. Smoothing Filters
 </br>
